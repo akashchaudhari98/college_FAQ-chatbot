@@ -51,17 +51,18 @@ to user query and then await user responce
 
 
 ## Database
-It is a dctionary database, and is structured as follows - 
-ETRX :{
-    "etrx":{
-        "intent 1": " Data for the intent",
-        "intent 2": "Data for the intent",
-        .
-        .
-        .
-        "intent 7": "data"
+It is a dctionary database, and is structured as follows 
 
-    }
+ETRX :{
+  "etrx":
+  {
+      "intent 1": " Data for the intent",
+      "intent 2": "Data for the intent",
+      .
+      .
+      .
+      "intent 7": "data"
+   }
 }
 same thing is done for all the branches 
 this database is saved as a pickle object and is opened everytime the chatbot server is turned on 
