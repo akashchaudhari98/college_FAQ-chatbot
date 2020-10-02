@@ -1,0 +1,108 @@
+QUESTIONS,INTENT,NER DATA,Updated_NER,small_talk_questions,small_talk_answer
+How many faculty are there in this college?,Faculty,give me data about faculties in the electronics department,give me data about faculties in the electronics department,hii,hello
+Give information about the teaching staff?,Faculty,who are faculties in the electronics,give me data about faculties in the computer department,hii how are you,"i am fine , thank you for asking"
+Who is the HOD?,Faculty,how many faculy members are their in the electronics department,give me data about faculties in the IT department,hii who are you,"I am addbot, i can help you with getting to know the college better"
+Who is the head of the department?,Faculty,give me informatiojn about the electronics faculty,give me data about faculties in the EXTC department,hii who made you,i was made by the almighty great akash
+how many teaching faculty are there in total?,Faculty,who teaches courses in the electronics,give me data about faculties in the Mech department,hii are you human,"I am addbot, i was created by the almighty great akash "
+Give some information about the faculty.,Faculty,who is the electronics head of the department,who are faculties in the electronics department,hii can you help me,"sure , how can i help you "
+What are the qualifications of the teaching faculty?,Faculty,what is the basic qualification in the electronics department,who are faculties in the computer department,hii I need some help,please tell me how i can help you
+who are the faculty in the college,Faculty,does the eletronics branch offer student exchange programs,who are faculties in the IT department,hii I need some information,"sure , how can i help you "
+where is the faculty located,Faculty,what is the faculty student ratio in electronics,who are faculties in the EXTC department,hey,hello
+can i approch faculty for research project,Faculty,how good is the electronics infrastrucutre,,hey how are you,"i am fine , thank you for asking"
+how can i apply as a facutly member,Faculty,examination in the electronics department,,"hey , good morning",hello
+what is the hiring pattern for teachers,Faculty,how many students are available in electronics,,hey what is your name,hello  i am addbot created by the almighty great akash
+what are the english language proffiency requirements for teachers,Faculty,electronics branch is on what floor,,hey how human are you,i am addbot created by the almighty great akash
+what is the student facuty ratio,Faculty,how many students are present in electronics branch,,hello,hello
+how accessible are faculty to students,Faculty,does electronics branch have a hostel facilty,,hello how are you,"i am fine , thank you for asking"
+,,can I apply as a teacher in electronics branch,,hello who are you,i am addbot created by the almighty great akash
+,,when does the electronics department hold its examination,,hello I need some help,"sure , how can i help you "
+,,electronics branch has how many faculty members,,hello can you help me,"sure , how can i help you "
+How many buildings are there in the college?,infrastructure,how many labs does the electronics department have,,who made you,i am addbot created by the almighty great akash
+Can you tell us about the college infrastructure?,infrastructure,what equipment does the electronics department have,,good morning,hello
+How is the college infrastructure divided?,infrastructure,does the electronics department have adequate equipment,,good evening,hello
+What different types of labs are there for the students to learn in ?,infrastructure,how is the syllabus for electronics second year,,good night,good night
+What are the different type of labs available?,infrastructure,what is the course content for electronics branch,,thank you,can i help you with something else
+interiour of the college,infrastructure,what companies are the students placed to in electronics,,thanks a lot,can i help you with something else
+are hostel faculity available,infrastructure,what all courses are offered in the electronics engineering progam,,hello i had some questions,hello i had some questions
+how many students can be accomodated in the hostel,infrastructure,what are the core subjects taught in electronics engineering,,hi i had a few questions,hi i had a few questions
+what is the criteria to avail hostel facility,infrastructure,what is the syllabus for second year electronics engineering,,who are you,hello  i am addbot created by the almighty great akash
+is there a diffrential fee structure for girls hostel,infrastructure,what is the course content in electronics engineering,,what are you,hello  i am addbot created by the almighty great akash
+what are the mess and canteen facility for students,infrastructure,electronics branch scholarships,give me informatiojn about the IT faculty,who made you,i am addbot created by the almighty great akash
+wifi facilty,infrastructure,branch electronics,,good morning,hello
+name and contact of hostel athorities,infrastructure,,,good evening,hello
+,,,,good night,good night
+,,,,thank you,can i help you with something else
+what is the course syllabus?,syllabus,,give me informatiojn about the EXTC faculty,this was usefull,alright
+What is the pathway of the course ?,syllabus,,give me informatiojn about the Mech faculty,alright,okay
+What is the course content ?,syllabus,,who teaches courses in the electronics department,ok,great talking to you
+What are the subjects included in the course ?,syllabus,,who teaches courses in the computer department,thanks,can i help you with something else
+what is the syllabus for second year,syllabus,,who teaches courses in the IT department,this was usefull,alright
+what are the courses in third year engineering,syllabus,,who teaches courses in the EXTC department,alright,okay
+what electives are offered,syllabus,,who teaches courses in the Mech department,ok,great talking to you
+what are extra subjects being offered,syllabus,,who is the electronics head of the department,okay,great talking to you
+how many subjects are offered in a perticular semester,syllabus,,who is the computer head of the department,alright thank you,great talking to you
+what are the course objective,syllabus,,who is the IT head of the department,that's all for now,great talking to you
+what are the program objectives,syllabus,,,can you tell me something,"sure , how can i help you "
+what are the future plans for infrastructure,syllabus,,,what all can you do,"I am addbot, i can help you with getting to know the college better"
+what are the diffrent types of graduate progams available,syllabus,,,what are you capable of,"I am addbot, i can help you with getting to know the college better"
+is distance learning available at grad level,syllabus,,,alright thank you,great talking to you
+are their oppertunities available for student exchange,syllabus,,,that's all for now,great talking to you
+,,,,can you tell me something,"sure , how can i help you "
+,,,,what all can you do,"I am addbot, i can help you with getting to know the college better"
+When are the examination held?,calendar,,who is the EXTC head of the department,what are you capable of,"I am addbot, i can help you with getting to know the college better"
+Give some information about the semester durations.,calendar,,who is the Mech head of the department,,
+Can you provide us with the college calendar?,calendar,,what is the basic qualification in the electronics department,,
+How long is a single semester?,calendar,,what is the basic qualification in the computer department,,
+How are the semesters divided ?,calendar,,what is the basic qualification in the IT department,,
+what is the course duration?,calendar,,what is the basic qualification in the EXTC department,,
+How many holidays are provided to the students?,calendar,,what is the basic qualification in the Mech department,,
+How many examinations are conducted in a semester?,calendar,,how many labs does the electronics department have,,
+,,,how many labs does the computer department have,,
+,,,,,
+,,,,,
+,,,how many labs does the IT department have,,
+Can you tell us about the past placement records of the college ?,placement,,how many labs does the EXTC department have,,
+What is the average package of the last year?,placement,,how many labs does the Mech department have,,
+what is the average package of students graduating from this college ?,placement,,what equipment does the electronics department have,,
+What is the highest package any student received last year?,placement,,what equipment does the computer department have,,
+What is the highest package achieved by students graduating fromt this college?,placement,,what equipment does the IT department have,,
+Which companies come for campus placements in this college?,placement,,what equipment does the EXTC department have,,
+Which are the companies that come for the campus placements to hire graduates?,placement,,what equipment does the Mech department have,,
+Which companies will the student have a chance to apply for?,placement,,does the electronics department have adequate equipment,,
+which are new prospective companies that can come to college placements,placement,,,,
+,,,,,
+,,,does the computer department have adequate equipment,,
+Give some information about the past result records of the college?,result,,does the IT department have adequate equipment,,
+What was the top score achieved last year?,result,,does the EXTC department have adequate equipment,,
+What is the average result of the college ?,result,,does the Mech department have adequate equipment,,
+What were the best marks scored last year?,result,,what all courses are offered in the electronics engineering progam,,
+What is the average result of the last year?,result,,what all courses are offered in the computer engineering progam,,
+How many students passed from total students in last year?,result,,what all courses are offered in the IT engineering progam,,
+What is the average graduating result of the college ?,result,,what all courses are offered in the EXTC engineering progam,,
+How many students on an average pass out from this college ?,result,,what all courses are offered in the Mech engineering progam,,
+what is the progress pattern of the students according to their results,result,,,,
+what is the present  grading system,result,,what are the core subjects taught in electronics engineering,,
+,,,,,
+,,,,,
+Are there any Student bodies in this college?,student body,,what are the core subjects taught in computer engineering,,
+Give some information of the student bodies present in the college ?,student body,,what are the core subjects taught in IT engineering,,
+"Apart from studies, what other activities are students able to engage in the college ?",student body,,what are the core subjects taught in EXTC engineering,,
+Which are different co curricular activities available in the college ?,student body,,what are the core subjects taught in Mech engineering,,
+Which are different teams student can be a  part of ?,student body,,what is the syllabus for second year electronics engineering,,
+What else can children learn apart from the curricular studies ?,student body,,what is the syllabus for second year computer engineering,,
+What different activities does college provide the children to participate in?,student body,,what is the syllabus for second year IT engineering,,
+is there any social service commite the students can be part of,student body,,,,
+,,,,,
+,,,,,
+summer internship,students,,,,
+student gender diversity,students,,,,
+alumni profiles,students,,,,
+what is the batch size,students,,,,
+are the students provided with industry experience,students,,,,
+what is the time line for applying to the insitute,students,,,,
+what research oppertunities are available to students,students,,,,
+what is the ratio of people going for jobs and PG programs,students,,,,
+what financial aid is provided to the students,students,,,,
+are on campus part time jobs available,students,,,,
+what is the criteria to apply for scholarships,students,,,,
+"what are the support systems for lbtq , disabled students",students,,,,

@@ -1,0 +1,131 @@
+QUESTIONS,INTENT
+How many faculty are there in this college?,Faculty
+Give information about the teaching staff?,Faculty
+Who is the HOD?,Faculty
+Who is the head of the department?,Faculty
+how many teaching faculty are there in total?,Faculty
+Give some information about the faculty.,Faculty
+What are the qualifications of the teaching faculty?,Faculty
+who are the faculty in the college,Faculty
+who are the teachers in the college,Faculty
+how many teachers are there in the college,Faculty
+who are the teaches in the electronics department,Faculty
+who the HOD of the computer science department,Faculty
+who are the professor in the department,Faculty
+how many instructor are there in the department,Faculty
+who the instructors in the department,Faculty
+faculty members in the department of,Faculty
+lab assistants in the college,Faculty
+lab assistants in the department,Faculty
+how many lab assistants are  there in the college,Faculty
+institute infrastructure,infrastructure
+no of classrooms in the college,infrastructure
+canteen facilty in the institute,infrastructure
+building quality in the university,infrastructure
+number of institutes in the university,infrastructure
+architechture of the university building,infrastructure
+How many buildings are there in the college?,infrastructure
+Can you tell us about the college infrastructure,infrastructure
+How is the college infrastructure divided?,infrastructure
+What different types of labs are there for the students to learn in ?,infrastructure
+What are the different type of labs available?,infrastructure
+interiour of the college,infrastructure
+research laboratories provied by the institute,infrastructure
+how many computers does the university possess,infrastructure
+sports courts on campus,infrastructure
+have a university gym,infrastructure
+basketball courts how many,infrastructure
+how many buildings are there in the engineering college,infrastructure
+how many depratments in the engineering college,infrastructure
+college mess in university campus,infrastructure
+course outcomes for the department,syllabus
+what is the course syllabus?,syllabus
+department courses offered,syllabus
+extra subjects that are offered,syllabus
+syllabus contents for final year students,syllabus
+course contents for third year students,syllabus
+course content for electronics deparment,syllabus
+electives offered in computer science deparment,syllabus
+course outcomes for department,syllabus
+curriculum for first year students,syllabus
+Curriculum for depatment students,syllabus
+What is the pathway of the course ?,syllabus
+What is the course content ?,syllabus
+What are the subjects included in the course ?,syllabus
+what is the syllabus for second year,syllabus
+what are the courses in third year engineering,syllabus
+what electives are offered,syllabus
+what are extra subjects being offered,syllabus
+how many subjects are offered in a perticular semester,syllabus
+how is the Curriculum designed in college,syllabus
+what is the somaiya entrance test,admissions
+what is SET,admissions
+when is SET conducted,admissions
+how to sigh up for SET,admissions
+what is the eligblity crieteria for set,admissions
+what is the eligblity crieteria for addmisson in somaiya,admissions
+when do addmissions start in somaiya,admissions
+how many seats are available in each department,admissions
+where can i apply for admissions,admissions
+Provisional admissions in kjsce,admissions
+eligblity crieteria for Provisional Admissions in kjsce,admissions
+JEE score for addmission in kjsce,admissions
+when is somaiya entrance test conducted,admissions
+how to secure a seat in kjsce,admissions
+what is the set score for computer science,admissions
+what is the eligblity crieteria for mechanical department,admissions
+how score is required to get admission in somaiya,admissions
+admission in kj somaiya college of engineering,admissions
+somaiya entrance test,admissions
+somaiya entrance test syllabus,admissions
+placement in electronics department,placement
+companies that come to kjsce for placement,placement
+job oppertunites after engineering in kjsce,placement
+placement rules and regulations,placement
+who are the Recruiters in kjsce,placement
+placment oppertunities at kjsce,placement
+average package in kj somaiya college of engineering,placement
+average package in computer science department,placement
+highest package in it deparment,placement
+placement steps in college,placement
+placement coordinator in kjsce,placement
+Can you tell us about the past placement records of the college ?,placement
+What is the average package of the last year?,placement
+what is the average package of students graduating from this college ?,placement
+What is the highest package any student received last year?,placement
+What is the highest package achieved by students graduating fromt this college?,placement
+Which companies come for campus placements in this college?,placement
+Which are the companies that come for the campus placements to hire graduates?,placement
+Which companies will the student have a chance to apply for?,placement
+training activities for placement in kjsce,placement
+what all enginering streams are offered in kjsce,programes
+departments in kjsce,programes
+branches in kj somaiya college of engineering,programes
+program outcomes for the department of computer science,programes
+prominent alumni in electronics department,programes
+program outcomes for the department of electronics,programes
+department of humanities,programes
+electronics department,programes
+informaion technology department,programes
+mechanical department information,programes
+informaion about branches in kjsce,programes
+computer science department,programes
+telecommunication engineering information,programes
+btech programs in kjsce,programes
+engineering programs in kjsce,programes
+engineering fields in kjsce,programes
+depratment of humanities in kjsce,programes
+Are there any Student bodies in this college?,student body
+Give some information of the student bodies present in the college ?,student body
+"Apart from studies, what other activities are students able to engage in the college ?",student body
+Which are different co curricular activities available in the college ?,student body
+Which are different teams student can be a  part of ?,student body
+What else can children learn apart from the curricular studies ?,student body
+What different activities does college provide the children to participate in?,student body
+what is orion racing team,student body
+student council in kjsce,student body
+student life in kjsce,student body
+student incubator in kjsce,student body
+recreational activites in somaiya,student body
+team robocon members,student body
+somaiya sports academy activites,student body
